@@ -1,0 +1,13 @@
+#head{
+  font-size: 60px;
+  color: white;
+  background-color: cyan;
+  text-align: center;
+}
+
+#list{
+  font-size: 40;
+  color: cyan;
+  font-style: bold;
+  margin-top: 100px;
+}
