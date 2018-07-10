@@ -3,6 +3,8 @@
   color: white;
   background-color: cyan;
   text-align: center;
+  margin: 10px;
+  padding: 0px;
 }
 
 #list{
