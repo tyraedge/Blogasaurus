@@ -1,0 +1,45 @@
+#head{
+  font-size: 60px;
+  margin:0px;
+  padding:0px;
+
+}
+
+#list{
+  font-size: 40;
+  color: cyan;
+  font-style: bold;
+  margin-top: 100px;
+}
+#adventure{
+  text-align: center;
+  font-size: 35px;
+  margin:0px;
+  padding:0px;
+  color:#ccffff;
+}
+#header_full{
+  font-family:"Courier New", Monospace;
+  background-color: #E6E6FA;
+  text-align: center;
+  margin: 10px;
+  padding: 0px;
+  color:#ccffff;
+}
+#links{
+  font-weight: bold;
+  width: screen.width;
+  text-align: center;
+}
+.link{
+  display: inline-block;
+  margin-left: 10%;
+  margin-right: 10%;
+  font-size: 30px;
+  color: #ccffff;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #E6E6FA;
+  padding-left:50px;
+  padding-right:50px;
+}
